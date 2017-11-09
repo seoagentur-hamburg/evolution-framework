@@ -1,0 +1,66 @@
+== Changelog ==
+
+= 2.2.1 - June 5, 2017 =
+* Fixed text domain
+
+= 2.2.0 - June 3, 2017 =
+* Added a setting of page title display
+* Updated settings of Related Posts
+* Updated copyright year
+* Deleted language files
+
+= 2.1.2 - Nov 30, 2016 =
+* Fixed the issue caused by ver. 2.1.1
+
+= 2.1.1 - Nov 30, 2016 =
+* Fixed the issue caused by ver. 2.1.0
+
+= 2.1.0 - Nov 29, 2016 =
+* Added settings of Header Image
+* Added settings of Featured Posts
+
+= 2.0.4 - Sep 01, 2016 =
+* Fixed function for Double Tap To Go
+* Fixed author name in order not to have additional space
+* Added tags for Google Search Console
+
+= 2.0.3 - Jul 11, 2016 =
+* Updated featured image setting
+* Updated category function
+
+= 2.0.2 - Jun 22, 2016 =
+* Updated enqueueing scripts of navigation
+* Added German language
+
+= 2.0.1 - Jun 16, 2016 =
+* Fixed editor style
+
+= 2.0.0 - Jun 10, 2016 =
+* Completely redesigned
+
+= 1.1.5 - May 29, 2015 =
+* Fixed German translation 
+
+= 1.1.4 - Apr 03, 2015 =
+* Deleted remove_section in the Customizer
+* Fixed data validation on output
+* Fixed indent of inc/customizer.php 
+
+= 1.1.2 - Apr 03, 2015 =
+* Fixed some bugs in Safari
+* Added sanitization in the Customizer
+* Added language files
+* Updated copyright year 
+
+= 1.1.1 - Jun 19, 2014 =
+* Added languages files
+
+= 1.1.0 - Mar 27, 2014 =
+* Fixed padding of comments
+* Fixed margin of images
+* Added settings of logo margin
+* Updated language files 
+* Updated copyright year
+
+= 1.0.2 - Mar 4, 2014 =
+* Initial release

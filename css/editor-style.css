@@ -1,0 +1,16 @@
+/*
+Theme Name: evolution
+Description: Used to style the TinyMCE editor.
+*/
+
+html .mceContentBody {
+	max-width: 700px;
+	margin: 10px;
+}
+body {
+	background-color: #fff;
+}
+a {
+	color: #0073aa;
+	text-decoration: underline;
+}

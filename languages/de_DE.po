@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Evolution\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-05 20:11+0000\n"
+"PO-Revision-Date: 2017-11-05 20:16+0000\n"
+"Last-Translator: Andreas Hecht <office@andreas-hecht.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr ""
+
+#: inc/admin/customizer.php:22
+msgid "https://andreas-hecht.com/docs/evolution/"
+msgstr ""
+
+#: inc/admin/customizer.php:25
+msgid "https://wordpress.org/support/theme/evolution"
+msgstr ""
+
+#: inc/admin/customizer.php:25
+msgid "Support Forum"
+msgstr ""
+
+#: inc/admin/customizer.php:28
+msgid "https://wordpress.org/support/view/theme-reviews/evolution?filter=5"
+msgstr ""
+
+#: inc/admin/customizer.php:109
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/customizer.php:158
+msgid "Margin Top (px)"
+msgstr ""
+
+#: inc/admin/customizer.php:169
+msgid "Margin Bottom (px)"
+msgstr ""
+
+#: inc/admin/customizer.php:244
+msgid "Footer"
+msgstr ""
+
+#: inc/admin/customizer.php:346
+msgid "Disable Generator"
+msgstr ""
+
+#: inc/admin/customizer.php:347
+msgid "Enable Generator"
+msgstr ""
+
+#: inc/structure/evolution-loop-content.php:202
+msgid ", "
+msgstr ""
+
+#: inc/functions/frontend-functions.php:195
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: inc/functions/frontend-functions.php:196
+msgctxt "Next post link"
+msgid "%title"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:168
+msgid "Website URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:172
+msgid "Facebook URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:176
+msgid "Twitter URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:180
+msgid "Google+ URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:184
+msgid "Flickr URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:188
+msgid "GitHub URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:192
+msgid "Instagram URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:196
+msgid "Linkedin URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:200
+msgid "Pinterest URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:204
+msgid "RSS URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:208
+msgid "StumbleUpon URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:212
+msgid "Dribbble URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:216
+msgid "Vimeo URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:220
+msgid "YouTube URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:224
+msgid "Xing URI"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:270
+msgid "Icon Border Radius:"
+msgstr ""
+
+#: inc/widgets/evolution-widgets.php:588
+msgid "Evolution Profile"
+msgstr "Evolution Profil"
+
+#: inc/widgets/evolution-widgets.php:672
+msgid "Name:"
+msgstr ""
+
+#: inc/structure/markup/evolution-footer.php:86
+#, php-format
+msgid "Powered by <a href=\"%1$s\">%2$s</a>"
+msgstr "Angetrieben von <a href=\"%1$s\">%2$s</a>"
+
+#: inc/structure/markup/evolution-footer.php:87
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/structure/markup/evolution-footer.php:89
+#, php-format
+msgid "Theme: <a href=\"%1$s\">Evolution</a> by %3$s"
+msgstr "Theme: <a href=\"%1$s\">Evolution</a> von %3$s"
+
+#: inc/structure/markup/evolution-footer.php:90
+msgid "https//andreas-hecht.com/wordpress-themes/evolution/"
+msgstr ""
+
+#: inc/functions/helper/widgets-init.php:35
+msgid "Sidebar"
+msgstr ""
+
+#: inc/functions/helper/widgets-init.php:44
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/functions/helper/widgets-init.php:53
+msgid "Footer 1"
+msgstr ""
+
+#: inc/functions/helper/widgets-init.php:62
+msgid "Footer 2"
+msgstr ""
+
+#: inc/functions/helper/widgets-init.php:70
+msgid "Footer 3"
+msgstr ""
+
+#: inc/functions/helper/widgets-init.php:78
+msgid "Footer 4"
+msgstr ""
+
+#. Name of the theme
+msgid "Evolution"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Evolution is designed to be the fast and secure framework for your next "
+"projects, based on WordPress action hooks. Made using mobile-first "
+"responsive  web design, even when your site is viewed on a smartphone or "
+"tablet  there will be no negative impact on the beautiful typography. "
+msgstr ""
+"Evolution ist entwickelt worden, um ein sicheres und schnelles Framework für "
+"dein nächstes Projekt zu sein. Es basiert auf WordPress Action-Hooks. Durch "
+"das konsequente Mobile-First-Design sieht das Theme auf allen Ausgabegeräten "
+"einfach nur schön aus."
+
+#. URI of the theme
+msgid "https://andreas-hecht.com/themes/evolution/"
+msgstr ""
+
+#. Author of the theme
+msgid "Andreas Hecht"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://andreas-hecht.com"
+msgstr ""
+
+#: template-sitemap.php:30
+msgid "Latest Articles"
+msgstr "Neueste Artikel"
+
+#: template-sitemap.php:45
+msgid "All Pages"
+msgstr "Alle Seiten"
+
+#: template-sitemap.php:55
+msgid "The Archives"
+msgstr "Die Archive"
+
+#: template-sitemap.php:65
+msgid "Categories"
+msgstr "Kategorien"
+
+#: template-sitemap.php:69
+msgid "No categories"
+msgstr "Keine Kategorien"
+
+#. Name of the template
+msgid "Fullwidth"
+msgstr "Volle Breite"
+
+#. Name of the template
+msgid "No Sidebar"
+msgstr "Keine Sidebar"
+
+#: searchform.php:4 searchform.php:4
+msgid "Search..."
+msgstr "Suche..."
+
+#: comments.php:26
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dieser Beitrag ist passwortgeschützt. Gib das Passwort ein, um die "
+"Kommentare zu lesen"
+
+#: inc/admin/customizer.php:19
+msgid "Thank you for using the Evolution Framework."
+msgstr "Vielen Dank für die Nutzung des Evolution Frameworks"
+
+#: inc/admin/customizer.php:20
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/admin/customizer.php:21
+msgid "For instructions on theme configuration, please see the documentation."
+msgstr ""
+"Für eine Hilfe bei der Theme-Konfiguration, lies bitte die Dokumentation."
+
+#: inc/admin/customizer.php:22
+msgid "Theme Documentation"
+msgstr "Theme Dokumentation"
+
+#: inc/admin/customizer.php:23
+msgid "Support"
+msgstr "Hilfe"
+
+#: inc/admin/customizer.php:24
+msgid ""
+"If there is something you don't understand even after reading the "
+"documentation, please use the support forum."
+msgstr ""
+"Sollte nach dem Lesen der Dokumentation noch etwas unklar sein, nutze bitte "
+"das Support-Forum."
+
+#: inc/admin/customizer.php:26
+msgid "Review"
+msgstr "Rezension"
+
+#: inc/admin/customizer.php:27
+msgid ""
+"If you are satisfied with the theme, we would greatly appreciate if you "
+"would review it."
+msgstr ""
+"Wenn du mit diesem Theme zufrieden bist, würden wir uns über eine positive "
+"Rezension sehr freuen!"
+
+#: inc/admin/customizer.php:28
+msgid "Review This Theme"
+msgstr "Schreibe eine Rezension"
+
+#: inc/admin/customizer.php:48
+msgid "Hide Tagline"
+msgstr "Tagline ausblenden"
+
+#: inc/admin/customizer.php:55
+msgid "IMPORTANT TO READ"
+msgstr "WICHTIG ZU LESEN"
+
+#: inc/admin/customizer.php:74
+msgid "Link Color"
+msgstr "Link Farbe"
+
+#: inc/admin/customizer.php:83
+msgid "Link Hover Color"
+msgstr "Link Hover Farbe"
+
+#: inc/admin/customizer.php:93
+msgid "Button Color"
+msgstr "Button Farbe"
+
+#: inc/admin/customizer.php:102
+msgid "Button Hover Color"
+msgstr "Button Hover Farbe"
+
+#: inc/admin/customizer.php:110
+msgid ""
+"In order to use a retina logo image, you must have a version of your logo "
+"that is doubled in size."
+msgstr ""
+"Willst du ein Retina Logo verwenden, dann muss es in der doppelten Auflösung "
+"vorhanden sein."
+
+#: inc/admin/customizer.php:118
+msgid "Upload Logo"
+msgstr "Logo hochladen"
+
+#: inc/admin/customizer.php:127
+msgid "Replace Title"
+msgstr "Titel ersetzen"
+
+#: inc/admin/customizer.php:137
+msgid "Retina Ready"
+msgstr "Retina Ready"
+
+#: inc/admin/customizer.php:147
+msgid "Add Border Radius"
+msgstr "Border Radius hinzufügen"
+
+#: inc/admin/customizer.php:181
+msgid "Header Image Display"
+msgstr "Header Bild Anzeige"
+
+#: inc/admin/customizer.php:185 inc/admin/customizer.php:367
+msgid "Display on the blog posts index page"
+msgstr "Zeige es auf der Blog-Hauptseite an"
+
+#: inc/admin/customizer.php:186 inc/admin/customizer.php:368
+msgid "Display on all static pages"
+msgstr "Zeige es auf allen Seiten an"
+
+#: inc/admin/customizer.php:187 inc/admin/customizer.php:369
+msgid "Display on the whole site"
+msgstr "Zeige es auf der kompletten Website an"
+
+#: inc/admin/customizer.php:196
+msgid "Share Buttons"
+msgstr "Share Buttons"
+
+#: inc/admin/customizer.php:211
+msgid "Activate the Share Buttons under Post Thumbnails"
+msgstr "Aktiviere die Share-Buttons unterhalb der Beitragsbilder"
+
+#: inc/admin/customizer.php:220
+msgid "Post Display"
+msgstr "Beitragsanzeige"
+
+#: inc/admin/customizer.php:221
+msgid "You can set how posts are displayed on the blog posts index page."
+msgstr ""
+"Hier kannst du einstellen, wie die Beiträge auf der Blog-Haupsteite "
+"angezeigt werden sollen."
+
+#: inc/admin/customizer.php:235 inc/admin/customizer.php:332
+msgid "Display full content"
+msgstr "Zeige den vollen Inhalt"
+
+#: inc/admin/customizer.php:236
+msgid "Display auto excerpt"
+msgstr "Zeige den automatischen Excerpt an."
+
+#: inc/admin/customizer.php:245
+msgid "You can set the footer text and hide the theme credits from here."
+msgstr "Bestimme den Footer-Text und blende die Theme-Credits aus."
+
+#: inc/admin/customizer.php:260
+msgid "Hide the theme credits"
+msgstr "Blende die Theme-Credits aus."
+
+#: inc/admin/customizer.php:278
+msgid "Custom footer text. HTML allowed."
+msgstr "Dein Footer-Text. HTML ist erlaubt."
+
+#: inc/admin/customizer.php:291
+msgid "Hide Main Navigation"
+msgstr "Navigation ausblenden"
+
+#: inc/admin/customizer.php:301
+msgid "Hide Search on Main Navigation"
+msgstr "Blende die Suche innerhalb der Navigation aus"
+
+#: inc/admin/customizer.php:333
+msgid "Display excerpt"
+msgstr "Zeige den Excerpt an"
+
+#: inc/structure/evolution-loops.php:142 inc/structure/evolution-loops.php:229
+msgid "&laquo; Previous"
+msgstr "&laquo; Zurück"
+
+#: inc/structure/evolution-loops.php:143 inc/structure/evolution-loops.php:230
+msgid "Next &raquo;"
+msgstr "Vorwärts &raquo;"
+
+#: inc/structure/evolution-loops.php:267
+#, php-format
+msgid "Your Search Results for: %s"
+msgstr "Deine Suchresultate für: %s"
+
+#: inc/structure/evolution-loops.php:282
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: inc/structure/evolution-loops.php:283
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: inc/structure/evolution-loops.php:284
+msgid "Page"
+msgstr "Seite"
+
+#: inc/structure/evolution-loop-content.php:42
+#: inc/structure/evolution-loop-content.php:97
+#: inc/structure/evolution-loop-content.php:289
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: inc/structure/evolution-loop-content.php:57
+#: inc/functions/frontend-functions.php:338
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Weiterlesen<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/structure/evolution-loop-content.php:60
+#: inc/structure/evolution-loop-content.php:198
+#: inc/structure/evolution-loop-content.php:247
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/structure/evolution-loop-content.php:137
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: inc/structure/evolution-loop-content.php:143
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit deinen ersten Beitrag zu publizieren? <a href=\"%1$s\">Get started "
+"here</a>."
+
+#: inc/structure/evolution-loop-content.php:147
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Entschuldigung, aber nichts entsprach deinen Suchbegriffen. Bitte versuche "
+"es erneut mit einigen anderen Keywords."
+
+#: inc/structure/evolution-loop-content.php:152
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint, dass wir nicht finden konnten, wonach du gesucht hast. "
+"Vielleicht hilft eine Suche?"
+
+#: inc/structure/evolution-loop-content.php:326
+msgid "404 - That page can&rsquo;t be found."
+msgstr "404 - Die Seite wurde nicht gefunden."
+
+#: inc/structure/evolution-loop-content.php:332
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Hier ist nichts, wonach du gesucht hast. Vielleicht hilft eine Suche?"
+
+#: inc/functions/frontend-functions.php:97
+msgid "Posted"
+msgstr "Gepostet"
+
+#: inc/functions/frontend-functions.php:98
+msgid "on"
+msgstr "am"
+
+#: inc/functions/frontend-functions.php:105
+msgid "by"
+msgstr "von"
+
+#: inc/functions/frontend-functions.php:107
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s anzeigen"
+
+#: inc/functions/frontend-functions.php:110
+msgid "with"
+msgstr "mit"
+
+#: inc/functions/frontend-functions.php:112
+#: inc/widgets/evolution-widgets.php:730
+msgid "0 Comments"
+msgstr "0 Kommentaren"
+
+#: inc/functions/frontend-functions.php:112
+#: inc/widgets/evolution-widgets.php:730
+#: inc/structure/markup/evolution-comments.php:63
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: inc/functions/frontend-functions.php:112
+#: inc/widgets/evolution-widgets.php:730
+#: inc/structure/markup/evolution-comments.php:63
+msgid "% Comments"
+msgstr "% Kommentaren"
+
+#: inc/functions/frontend-functions.php:192
+msgid "Post navigation"
+msgstr "Beitragsnavigation"
+
+#: inc/functions/frontend-functions.php:195
+msgid "Older post"
+msgstr "Ältere Beiträge"
+
+#: inc/functions/frontend-functions.php:196
+msgid "Newer post"
+msgstr "Neuere Beiträge"
+
+#: inc/functions/frontend-functions.php:262
+#: inc/functions/frontend-functions.php:264
+msgid "Share"
+msgstr "Teilen"
+
+#: inc/functions/frontend-functions.php:263
+msgid "Tweet"
+msgstr "Twittern"
+
+#: inc/functions/frontend-functions.php:278
+msgid "Continue reading &raquo;"
+msgstr "Weiterlesen &raquo;"
+
+#: inc/compatibility/jetpack.php:92
+msgid "You might also like"
+msgstr "Das könnte dir auch gefallen"
+
+#: inc/widgets/evolution-widgets.php:16
+msgid "Displays recent posts with featured images."
+msgstr "Zeigt aktuelle Beiträge mit Beitragsbildern an."
+
+#: inc/widgets/evolution-widgets.php:17
+msgid "Evolution Recent Posts"
+msgstr "Evolution aktuelle Beiträge"
+
+#: inc/widgets/evolution-widgets.php:21
+msgid "Recent Posts"
+msgstr "Aktuelle Beiträge"
+
+#: inc/widgets/evolution-widgets.php:75 inc/widgets/evolution-widgets.php:264
+#: inc/widgets/evolution-widgets.php:535 inc/widgets/evolution-widgets.php:666
+#: inc/widgets/evolution-widgets.php:758
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/evolution-widgets.php:78 inc/widgets/evolution-widgets.php:761
+msgid "Number of posts to show:"
+msgstr "Wieviel Beiträge sollen angezeigt werden:"
+
+#: inc/widgets/evolution-widgets.php:82
+msgid "Display post date?"
+msgstr "Datum des Beitrags anzeigen?"
+
+#: inc/widgets/evolution-widgets.php:231
+msgid "Shows Social Media Follow Buttons in Header, Sidebar or Footer."
+msgstr ""
+"Zeigt folge mir Buttons für deine sozialen Netzwerke im Header, der Sidebar "
+"oder im Footer an."
+
+#: inc/widgets/evolution-widgets.php:238
+msgid "Evolution Social Icons"
+msgstr "Evolution Soziale Icons"
+
+#: inc/widgets/evolution-widgets.php:266
+msgid "Open links in new window?"
+msgstr "Links im neuen Tab öffnen?"
+
+#: inc/widgets/evolution-widgets.php:268
+msgid "Icon Size"
+msgstr "Icon Größe"
+
+#: inc/widgets/evolution-widgets.php:273
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: inc/widgets/evolution-widgets.php:275
+msgid "Align Left"
+msgstr "Links ausgerichtet"
+
+#: inc/widgets/evolution-widgets.php:276
+msgid "Align Center"
+msgstr "Zentriert"
+
+#: inc/widgets/evolution-widgets.php:277
+msgid "Align Right"
+msgstr "Rechts ausgerichtet"
+
+#: inc/widgets/evolution-widgets.php:283
+msgid "Icon Font Color:"
+msgstr "Icon Font Farbe:"
+
+#: inc/widgets/evolution-widgets.php:285
+msgid "Icon Font Hover Color:"
+msgstr "Icon Font Hover Farbe:"
+
+#: inc/widgets/evolution-widgets.php:287
+msgid "Background Color:"
+msgstr "Hintergrund-Farbe:"
+
+#: inc/widgets/evolution-widgets.php:289
+msgid "Background Hover Color:"
+msgstr "Hintergrund Hover Farbe:"
+
+#: inc/widgets/evolution-widgets.php:442
+msgid ""
+"This widget display the new and shiny Twitter Timeline from your twitter "
+"account."
+msgstr ""
+"Das Widget zeigt eine coole Twitter Timeline deines Twitter-Accounts an."
+
+#: inc/widgets/evolution-widgets.php:540
+msgid "Choose the width of the timeline:"
+msgstr "Wähle die Breite der Timeline:"
+
+#: inc/widgets/evolution-widgets.php:545
+msgid "Choose the height of the timeline:"
+msgstr "Wähle die Höhe der Timeline:"
+
+#: inc/widgets/evolution-widgets.php:550
+msgid "Your twitter name:"
+msgstr "Dein Twitter Name:"
+
+#: inc/widgets/evolution-widgets.php:555
+msgid "Link color:"
+msgstr "Link Farbe:"
+
+#: inc/widgets/evolution-widgets.php:560
+msgid "Choose a theme color (light or dark):"
+msgstr "Wähle eine Theme-Farbe (Hell oder Dunkel):"
+
+#: inc/widgets/evolution-widgets.php:562
+msgid "Light"
+msgstr "Hell"
+
+#: inc/widgets/evolution-widgets.php:563
+msgid "Dark"
+msgstr "Dunkel"
+
+#: inc/widgets/evolution-widgets.php:587
+msgid "Displays a profile with a photo and social media links."
+msgstr "Zeigt ein Profil-Widget mit deinem Bild und Social-Media-Links an."
+
+#: inc/widgets/evolution-widgets.php:669
+msgid "Profile Image URL:"
+msgstr "Die URL deines Profil-Bildes:"
+
+#: inc/widgets/evolution-widgets.php:693
+msgid "Displays the most popular posts by comments count with featured images."
+msgstr ""
+"Zeigt die beliebtesten Beiträge nach Anzahl der Kommentare mit "
+"Beitragsbildern an."
+
+#: inc/widgets/evolution-widgets.php:694
+msgid "Evolution Popular Posts"
+msgstr "Evolution beliebte Beiträge"
+
+#: inc/widgets/evolution-widgets.php:698
+msgid "Popular Posts"
+msgstr "Beliebte Beiträge"
+
+#: inc/woocommerce/woocommerce-functions.php:281
+msgid "View your shopping cart"
+msgstr "Zeige den Warenkorb"
+
+#: inc/woocommerce/woocommerce-functions.php:352
+msgid " Save "
+msgstr "Speichern"
+
+#: inc/structure/markup/evolution-header.php:69
+msgid "Skip to content"
+msgstr "Springe zum Inhalt"
+
+#: inc/structure/markup/evolution-header.php:129
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/structure/markup/evolution-comments.php:98
+#: inc/structure/markup/evolution-comments.php:160
+msgid "Comment navigation"
+msgstr "Kommentar Navigation"
+
+#: inc/structure/markup/evolution-comments.php:102
+#: inc/structure/markup/evolution-comments.php:164
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: inc/structure/markup/evolution-comments.php:106
+#: inc/structure/markup/evolution-comments.php:168
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: inc/structure/markup/evolution-comments.php:196
+msgid "Sorry, Comments are closed."
+msgstr "Entschuldigung, die Kommentare sind für diesen Beitrag geschlossen."
+
+#: inc/structure/markup/evolution-comments.php:227
+msgid "Please be kind. Thank You!"
+msgstr "Bitte sei nett. Danke!"
+
+#: inc/structure/markup/evolution-comments.php:229
+msgid "Your Name"
+msgstr "Dein Name"
+
+#: inc/structure/markup/evolution-comments.php:230
+msgid "your@email.com"
+msgstr "deine@email.de"
+
+#: inc/structure/markup/evolution-comments.php:231
+msgid "Your Website"
+msgstr "Deine Website"
+
+#: inc/functions/setup/setup.php:81
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#: inc/functions/setup/setup.php:82
+msgid "Header Social Links"
+msgstr "Header soziale Links"
+
+#: inc/functions/helper/widgets-init.php:26
+msgid "Header Right"
+msgstr "Header rechts"
+
+#: inc/functions/helper/widgets-init.php:28
+msgid ""
+"This is the header widget area. It typically appears next to the site title "
+"or logo. This widget area is not suitable to display every type of widget, "
+"and works best with a search form, or the Social Follow Widget."
+msgstr ""
+"Dies ist der Header-Widgetbereich. Sie wird normalerweise neben dem Website-"
+"Titel oder dem Logo angezeigt. Dieser Widgetbereich eignet sich nicht für "
+"die Anzeige aller Arten von Widgets und funktioniert am besten mit einem "
+"Suchformular oder dem Social Follow Widget."
+
+#: inc/functions/helper/widgets-init.php:37
+msgid ""
+"This is the normal sidebar. If you do not use this sidebar, the page will be "
+"a one-column design."
+msgstr ""
+"Dies ist die normale Sidebar. Wenn du sie nicht verwendest, wird dein "
+"Website-Layout einspaltig angezeigt."
+
+#: inc/functions/helper/widgets-init.php:46
+msgid ""
+"This is the sidebar for your WooCommerce Shop. If you do not use this "
+"sidebar, your shop will be a one-column design."
+msgstr ""
+"Dies ist die Sidebar für deinen WooCommerce-Shop. Wenn du sie nicht "
+"verwendest, wird dein Shop einspaltig angezeigt. Hast du WooCommerce nicht "
+"installiert, ist diese Sidebar ohne Funktion."
+
+#: inc/functions/helper/widgets-init.php:55
+msgid ""
+"From left to right there are 4 sequential footer widget areas, and the width "
+"is auto-adjusted based on how many you use. If you do not use a footer "
+"widget, nothing will be displayed."
+msgstr ""
+"Von links nach rechts gibt es 4 aufeinanderfolgende Footer-Widget-Bereiche "
+"und die Breite wird basierend auf der Anzahl der von dir verwendeten "
+"automatisch angepasst. Wenn du kein Footer-Widget verwendest, wird nichts "
+"angezeigt."
+
+#: inc/functions/helper/helper.php:238
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Bearbeiten<span class=\"screen-reader-text\"> \"%s\"</span>"

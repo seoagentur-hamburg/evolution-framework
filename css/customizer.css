@@ -1,0 +1,48 @@
+.evolution-upgrade-link {
+	background-color: #e7430e;
+	border-radius: 4px;
+	color: #fff !important;
+	display: inline-block;
+	font-size: 12px;
+	line-height: 1.5;
+	margin-top: 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 3px 10px 4px;
+}
+.evolution-upgrade-link:hover,
+.evolution-upgrade-link:active {
+	background-color: #ea6236;
+}
+#accordion-section-evolution_fonts .accordion-section-title,
+#accordion-section-evolution_title .accordion-section-title,
+#accordion-section-evolution_featured .accordion-section-title,
+#accordion-section-evolution_post .accordion-section-title,
+#accordion-section-evolution_category_colors .accordion-section-title,
+#accordion-section-evolution_footer .accordion-section-title,
+#accordion-section-evolution_custom_css .accordion-section-title {
+	background: url( "../images/customizer-bg.png" ) repeat;
+}
+#accordion-section-evolution_fonts .accordion-section-title:after,
+#accordion-section-evolution_title .accordion-section-title:after,
+#accordion-section-evolution_featured .accordion-section-title:after,
+#accordion-section-evolution_post .accordion-section-title:after,
+#accordion-section-evolution_category_colors .accordion-section-title:after,
+#accordion-section-evolution_footer .accordion-section-title:after,
+#accordion-section-evolution_custom_css .accordion-section-title:after {
+	content: "\f160";
+}
+.evolution-read-me h3 {
+	margin-top: 2.2em;
+}
+.evolution-read-me-text {
+	margin-bottom: 0.5em;
+}
+.evolution-read-me-link {
+	margin-top: 0.5em;
+}
+#customize-control-jetpack_relatedposts-show_headline,
+#customize-control-jetpack_relatedposts-headline,
+#customize-control-jetpack_relatedposts-show_context {
+	display: none !important;
+}

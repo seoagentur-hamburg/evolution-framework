@@ -1,0 +1,39 @@
+/*
+Theme Name: evolution
+Description: Typoevolution for Japanese.
+*/
+
+html {
+	font-size: 77%;
+}
+body {
+	font-size: 16px;
+	font-family: Georgia, '游明朝', YuMincho, 'Hiragino Mincho ProN', Meiryo, serif;
+	line-height: 1.7;
+}
+h1, h2, h3, h4, h5, h6, .site-title {
+	font-family: Georgia, '游明朝', YuMincho, 'Hiragino Mincho ProN', Meiryo, serif;
+	font-weight: 700;
+}
+.site-title {
+	font-size: 38px;
+	font-weight: 400;
+}
+.entry-title {
+	font-weight: 400;
+	line-height: 1.4;
+}
+.widget {
+	line-height: 1.6;
+}
+@media screen and (min-width: 783px) {
+	html {
+		font-size: 85%;
+	}
+	body {
+		font-size: 17px;
+	}
+	.site-title {
+		font-size: 43px;
+	}
+}
