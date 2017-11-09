@@ -7,9 +7,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, custom-colors, custom-header, custom-menu, editor-style, featured-images, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, framework, theme-framework
 
 == Description ==
-Evolution is a blog-oriented WordPress theme designed with great attention given to the beauty of the typography. Made using mobile-first responsive web design, even when your site is viewed on a smartphone or tablet there will be no negative impact on the beautiful typography. It is also a good choice as a framework for your next projects.
+Evolution is designed to be the fast and secure framework for your next projects, based on WordPress action hooks. Made using mobile-first responsive web design, even when your site is viewed on a smartphone or tablet there will be no negative impact on the beautiful typography.
 
-For more information about evolution please go to http://evolution-themes.com/wordpress-themes/evolution/
+For more information about evolution please go to http://andreas-hecht.com/wordpress-themes/evolution/
 
 == Installation ==
 
