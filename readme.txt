@@ -4,7 +4,7 @@ Requires at least: WordPress 4.5
 Version: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: one-column, two-columns, right-sidebar, custom-colors, custom-header, custom-menu, editor-style, featured-images, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, framework, theme-framework
+Tags: one-column, two-columns, right-sidebar, custom-colors, custom-header, custom-menu, editor-style, featured-images, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
 
 == Description ==
 Evolution is designed to be the fast and secure framework for your next projects, based on WordPress action hooks. Made using mobile-first responsive web design, even when your site is viewed on a smartphone or tablet there will be no negative impact on the beautiful typography.
