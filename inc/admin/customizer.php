@@ -20,12 +20,6 @@ function evolution_customize_register( $wp_customize ) {
 				<h3><?php esc_html_e( 'Documentation', 'evolution' ); ?></h3>
 				<p class="evolution-read-me-text"><?php esc_html_e( 'For instructions on theme configuration, please see the documentation.', 'evolution' ); ?></p>
 				<p class="evolution-read-me-link"><a href="<?php echo esc_url( __( 'https://andreas-hecht.com/docs/evolution/', 'evolution' ) ); ?>" target="_blank"><?php esc_html_e( 'Theme Documentation', 'evolution' ); ?></a></p>
-				<h3><?php esc_html_e( 'Support', 'evolution' ); ?></h3>
-				<p class="evolution-read-me-text"><?php esc_html_e( 'If there is something you don\'t understand even after reading the documentation, please use the support forum.', 'evolution' ); ?></p>
-				<p class="evolution-read-me-link"><a href="<?php echo esc_url( __( 'https://wordpress.org/support/theme/evolution', 'evolution' ) ); ?>" target="_blank"><?php esc_html_e( 'Support Forum', 'evolution' ); ?></a></p>
-				<h3><?php esc_html_e( 'Review', 'evolution' ); ?></h3>
-				<p class="evolution-read-me-text"><?php esc_html_e( 'If you are satisfied with the theme, we would greatly appreciate if you would review it.', 'evolution' ); ?></p>
-				<p class="evolution-read-me-link"><a href="<?php echo esc_url( __( 'https://wordpress.org/support/view/theme-reviews/evolution?filter=5', 'evolution' ) ); ?>" target="_blank"><?php esc_html_e( 'Review This Theme', 'evolution' ); ?></a></p>
 			</div>
 			<?php
 		}
@@ -222,7 +216,7 @@ $wp_customize->add_setting('share-buttons', array(
         'priority'    => 50,
     ) );
     $wp_customize->add_setting( 'post_display_layout', array(
-        'default'           => 'excerpt',
+        'default'           => 'full',
         'sanitize_callback' => 'evolution_sanitize_radio',
         'capability' => 'edit_theme_options',
     ) );

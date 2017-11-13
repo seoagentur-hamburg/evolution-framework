@@ -1,13 +1,13 @@
-=== Evolution ===
+=== Evolution Framework ===
 Contributors: ahecht
 Requires at least: WordPress 4.5
-Version: 1.0.0
+Version: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, custom-colors, custom-header, custom-menu, editor-style, featured-images, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
 
 == Description ==
-Evolution is designed to be the fast and secure framework for your next projects, based on WordPress action hooks. Made using mobile-first responsive web design, even when your site is viewed on a smartphone or tablet there will be no negative impact on the beautiful typography.
+The Evolution Framework is designed to be the fast and secure framework for your next projects, based on WordPress action hooks.
 
 For more information about evolution please go to http://andreas-hecht.com/wordpress-themes/evolution/
 
@@ -22,7 +22,7 @@ For more information about evolution please go to http://andreas-hecht.com/wordp
 
 == Copyright ==
 
-Evolution WordPress Theme, Copyright 2017 Andreas Hecht
+Evolution Framework WordPress Theme, Copyright 2017 Andreas Hecht
 Evolution is distributed under the terms of the GNU GPL
 
 Evolution is based on Underscores
