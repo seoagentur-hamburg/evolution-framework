@@ -39,7 +39,7 @@ class Evolution_Widget_Recent_Posts extends WP_Widget {
 			<li>
 				<a href="<?php the_permalink(); ?>">
 				<?php if ( has_post_thumbnail() ): ?>
-					<?php the_post_thumbnail('evolution-post-thumbnail-small'); ?>
+                    <?php the_post_thumbnail('evolution-small'); ?>
 				<?php endif; ?>
 					<div class="recent-posts-text">
 						<?php get_the_title() ? the_title() : the_ID(); ?>
