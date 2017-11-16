@@ -10,7 +10,7 @@
  * @package Evolution\Templates\
  * @author  Andreas Hecht
  * @license GPL-2.0+
- * @link https://andreas-hecht.com/wordpress-themes/evolution
+ * @link https://andreas-hecht.com/wordpress-themes/evolution-wordpress-framework/
  */
 
 get_header();
@@ -27,6 +27,7 @@ do_action( 'evolution_before_single' );
  * 
  * @hooked  evolution_top_markup - 5
  * @hooked  evolution_before_single_loop
+ * @hooked evolution_do_single_loop - 10
  * @hooked  evolution_after_single_loop
  * @hooked  evolution_bottom_markup - 30
  */

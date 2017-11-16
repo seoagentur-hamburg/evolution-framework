@@ -12,7 +12,7 @@
 * @package Evolution Framework\Markup\
 * @author  Andreas Hecht
 * @license GPL-2.0+
-* @link    https://andreas-hecht.com/wordpress-themes/evolution
+* @link    https://andreas-hecht.com/wordpress-themes/evolution-wordpress-framework/
 */
 
 add_action( 'evolution_do_comments', 'evolution_comments_top_markup', 5 );

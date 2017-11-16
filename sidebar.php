@@ -12,7 +12,7 @@
  * @package Evolution\Templates\
  * @author  Andreas Hecht
  * @license GPL-2.0+
- * @link https://andreas-hecht.com/wordpress-themes/evolution
+ * @link https://andreas-hecht.com/wordpress-themes/evolution-wordpress-framework/
  */
 if (   ! is_active_sidebar( 'sidebar' ) ) {
     return;

@@ -10,7 +10,7 @@
  * @package Evolution\Template\
  * @author  Andreas Hecht
  * @license GPL-2.0+
- * @link https://andreas-hecht.com/wordpress-themes/evolution
+ * @link https://andreas-hecht.com/wordpress-themes/evolution-wordpress-framework/
  */
 ?>
 
