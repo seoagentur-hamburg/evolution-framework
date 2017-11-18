@@ -145,34 +145,6 @@ add_filter( 'loop_shop_per_page', 'evolution_loop_shop_per_page', 20 );
 
 
 
-if (!function_exists('evolution_hide_shipping_when_free_is_available') ) {
-    /**
- * Hide shipping rates when free shipping is available.
- * Updated to support WooCommerce 2.6 Shipping Zones.
- *
- * @param array $rates Array of rates found for the package.
- * @return array
- */
-function evolution_hide_shipping_when_free_is_available( $rates ) {
-    
-        $free = array();
-        foreach ( $rates as $rate_id => $rate ) {
-            if ( 'free_shipping' === $rate->method_id ) {
-                $free[ $rate_id ] = $rate;
-                break;
-            }
-        }
-    
-        return ! empty( $free ) ? $free : $rates;
-    }
-}
-add_filter( 'woocommerce_package_rates', 'evolution_hide_shipping_when_free_is_available', 100 );
-
-
-
-
-
-
 if (!function_exists( 'evolution_manage_woocommerce_styles' ) ) :
 /**
 * Optimize WooCommerce Scripts
@@ -352,9 +324,9 @@ function evolution_custom_sales_price( $price, $regular_price, $sale_price ) {
     
     $percentage = round( ( $regular_price - $sale_price ) / $regular_price * 100 ).'%';
     
-    $percentage_txt = __(' Save ', 'evolution' ).$percentage;
+    $percentage_txt =  __(' Save ', 'evolution' ).$percentage;
     
-    $price = '<del>' . ( is_numeric( $regular_price ) ? wc_price( $regular_price ) : $regular_price ) . '</del> <ins>' . ( is_numeric( $sale_price ) ? wc_price( $sale_price ) . $percentage_txt : $sale_price . $percentage_txt ) . '</ins>';
+    $price = '<del>' . ( is_numeric( $regular_price ) ? wc_price( $regular_price ) : $regular_price ) . '</del> <ins>' . ( is_numeric( $sale_price ) ? wc_price( $sale_price ) . $percentage_txt : $sale_price . '&nbsp;' . $percentage_txt ) . '</ins>';
     return $price;
     
 }

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Evolution\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-05 20:11+0000\n"
-"PO-Revision-Date: 2017-11-05 20:16+0000\n"
+"PO-Revision-Date: 2017-11-18 17:35+0000\n"
 "Last-Translator: Andreas Hecht <office@andreas-hecht.com>\n"
 "Language-Team: German\n"
 "Language: de-DE\n"
@@ -135,27 +135,13 @@ msgstr ""
 msgid "Icon Border Radius:"
 msgstr ""
 
-#: inc/widgets/evolution-widgets.php:588
-msgid "Evolution Profile"
-msgstr "Evolution Profil"
-
 #: inc/widgets/evolution-widgets.php:672
 msgid "Name:"
 msgstr ""
 
-#: inc/structure/markup/evolution-footer.php:86
-#, php-format
-msgid "Powered by <a href=\"%1$s\">%2$s</a>"
-msgstr "Angetrieben von <a href=\"%1$s\">%2$s</a>"
-
 #: inc/structure/markup/evolution-footer.php:87
 msgid "https://wordpress.org/"
 msgstr ""
-
-#: inc/structure/markup/evolution-footer.php:89
-#, php-format
-msgid "Theme: <a href=\"%1$s\">Evolution</a> by %3$s"
-msgstr "Theme: <a href=\"%1$s\">Evolution</a> von %3$s"
 
 #: inc/structure/markup/evolution-footer.php:90
 msgid "https//andreas-hecht.com/wordpress-themes/evolution/"
@@ -189,18 +175,6 @@ msgstr ""
 msgid "Evolution"
 msgstr ""
 
-#. Description of the theme
-msgid ""
-"Evolution is designed to be the fast and secure framework for your next "
-"projects, based on WordPress action hooks. Made using mobile-first "
-"responsive  web design, even when your site is viewed on a smartphone or "
-"tablet  there will be no negative impact on the beautiful typography. "
-msgstr ""
-"Evolution ist entwickelt worden, um ein sicheres und schnelles Framework für "
-"dein nächstes Projekt zu sein. Es basiert auf WordPress Action-Hooks. Durch "
-"das konsequente Mobile-First-Design sieht das Theme auf allen Ausgabegeräten "
-"einfach nur schön aus."
-
 #. URI of the theme
 msgid "https://andreas-hecht.com/themes/evolution/"
 msgstr ""
@@ -212,6 +186,32 @@ msgstr ""
 #. Author URI of the theme
 msgid "https://andreas-hecht.com"
 msgstr ""
+
+#: inc/widgets/evolution-widgets.php:588
+msgid "Evolution Profile"
+msgstr "Evolution Profil"
+
+#: inc/structure/markup/evolution-footer.php:86
+#, php-format
+msgid "Powered by <a href=\"%1$s\">%2$s</a>"
+msgstr "Angetrieben von <a href=\"%1$s\">%2$s</a>"
+
+#: inc/structure/markup/evolution-footer.php:89
+#, php-format
+msgid "Theme: <a href=\"%1$s\">Evolution</a> by %3$s"
+msgstr "Theme: <a href=\"%1$s\">Evolution</a> von %3$s"
+
+#. Description of the theme
+msgid ""
+"Evolution is designed to be the fast and secure framework for your next "
+"projects, based on WordPress action hooks. Made using mobile-first "
+"responsive  web design, even when your site is viewed on a smartphone or "
+"tablet  there will be no negative impact on the beautiful typography. "
+msgstr ""
+"Evolution ist entwickelt worden, um ein sicheres und schnelles Framework für "
+"dein nächstes Projekt zu sein. Es basiert auf WordPress Action-Hooks. Durch "
+"das konsequente Mobile-First-Design sieht das Theme auf allen Ausgabegeräten "
+"einfach nur schön aus."
 
 #: template-sitemap.php:30
 msgid "Latest Articles"
@@ -697,7 +697,7 @@ msgstr "Zeige den Warenkorb"
 
 #: inc/woocommerce/woocommerce-functions.php:352
 msgid " Save "
-msgstr "Speichern"
+msgstr " Spare"
 
 #: inc/structure/markup/evolution-header.php:69
 msgid "Skip to content"

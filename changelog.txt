@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 1.0.3 - Nov 18, 2017 =
+* Fixing translations errors
+
 = 1.0.2 - Nov 16, 2017 =
 * Change link to Evolution
 
