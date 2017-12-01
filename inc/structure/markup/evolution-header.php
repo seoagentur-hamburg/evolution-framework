@@ -169,7 +169,7 @@ if ( is_page() && has_post_thumbnail() ) :
     
     echo '<div id="header-image" class="header-image">', "\n", '<figure>'; ?>
     
-    <img src="'<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>" height="<?php echo get_custom_header()->height; ?>" alt="Header Image" />
+    <img src="<?php header_image(); ?>" width="<?php echo get_custom_header()->width; ?>" height="<?php echo get_custom_header()->height; ?>" alt="Header Image" />
 
     <?php echo '</figure>', "\n", '</div><!-- #header-image -->';
     
