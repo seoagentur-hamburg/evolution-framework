@@ -87,7 +87,7 @@ function evolution_site_credit() {
         array( 'a' => array( 'href' => array() ) ) ), esc_url( __( 'https://wordpress.org/', 'evolution' ) ), 'WordPress' );
         echo  '<span class="site-credit-sep"> | </span>';
         printf( wp_kses( __( 'Theme: <a href="%1$s">Evolution</a> by %3$s', 'evolution' ), 
-        array( 'a' => array( 'href' => array() ) ) ), esc_url( __( 'https//andreas-hecht.com/wordpress-themes/evolution/', 'evolution' ) ), 'evolution', 'Andreas Hecht' );
+        array( 'a' => array( 'href' => array() ) ) ), esc_url( __( 'https://andreas-hecht.com/wordpress-themes/evolution/', 'evolution' ) ), 'evolution', 'Andreas Hecht' );
         endif;
 }
 endif;
