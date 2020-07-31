@@ -84,7 +84,7 @@ msgid "Twitter URI"
 msgstr ""
 
 #: inc/widgets/evolution-widgets.php:180
-msgid "Google+ URI"
+msgid "Telegram URI"
 msgstr ""
 
 #: inc/widgets/evolution-widgets.php:184

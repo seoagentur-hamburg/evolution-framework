@@ -138,7 +138,7 @@ function evolution_author_profile() {
             $social_1 = get_the_author_meta( 'facebook' );
             $social_2  = get_the_author_meta( 'twitter' );
             $social_3     = get_the_author_meta( 'feedurl' );
-            $social_4    = get_the_author_meta( 'googleplus' );
+            $social_4    = get_the_author_meta( 'instagram' );
             $social_5   = get_the_author_meta( 'linkedin' );
             $social_6   = get_the_author_meta( 'xing' );
             $social_7   = get_the_author_meta( 'youtube' );
@@ -154,7 +154,7 @@ function evolution_author_profile() {
             <?php if( $social_1 ) : ?><li><a href="<?php echo esc_url( $social_1 ); ?>" target="_blank" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li><?php endif; ?>
             <?php if( $social_2 ) : ?><li><a href="<?php echo esc_url( $social_2 ); ?>" target="_blank" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li><?php endif; ?>
             <?php if( $social_3 ) : ?><li><a href="<?php echo esc_url( $social_3 ); ?>" target="_blank" title="RSS Feed"><i class="fa fa-rss" aria-hidden="true"></i></a></li><?php endif; ?>
-            <?php if( $social_4 ) : ?><li><a href="<?php echo esc_url( $social_4 ); ?>" target="_blank" title="Google +"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li><?php endif; ?>
+            <?php if( $social_4 ) : ?><li><a href="<?php echo esc_url( $social_4 ); ?>" target="_blank" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li><?php endif; ?>
             <?php if( $social_5 ) : ?><li><a href="<?php echo esc_url( $social_5 ); ?>" target="_blank" title="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li><?php endif; ?>
             <?php if( $social_6 ) : ?><li><a href="<?php echo esc_url( $social_6 ); ?>" target="_blank" title="Xing"><i class="fa fa-xing" aria-hidden="true"></i></a></li><?php endif; ?>
             <?php if( $social_7 ) : ?><li><a href="<?php echo esc_url( $social_7 ); ?>" target="_blank" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li><?php endif; ?>
